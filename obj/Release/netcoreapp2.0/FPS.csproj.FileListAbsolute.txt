@@ -1,0 +1,83 @@
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.deps.json
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.runtimeconfig.json
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.runtimeconfig.dev.json
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.pdb
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Core.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Library.Metadata-v2.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Library.Parameters-v2.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.RasterIO.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.RasterIO.Gdal.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.SpatialModeling.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Landis.Utilities.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\log4net.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\MathNet.Numerics.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Troschuetz.Random.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\bin\Release\netcoreapp2.0\Gdal.Core.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\obj\Release\netcoreapp2.0\FPS.csproj.CoreCompileInputs.cache
+C:\Projects\Landis\ForestProducts\ForestProducts\obj\Release\netcoreapp2.0\FPS.AssemblyInfoInputs.cache
+C:\Projects\Landis\ForestProducts\ForestProducts\obj\Release\netcoreapp2.0\FPS.AssemblyInfo.cs
+C:\Projects\Landis\ForestProducts\ForestProducts\obj\Release\netcoreapp2.0\FPS.csproj.CopyComplete
+C:\Projects\Landis\ForestProducts\ForestProducts\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v0.dll
+C:\Projects\Landis\ForestProducts\ForestProducts\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v0.pdb
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\FPS.csprojAssemblyReference.cache
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\FPS.csproj.CoreCompileInputs.cache
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\FPS.AssemblyInfoInputs.cache
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\FPS.AssemblyInfo.cs
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v0.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v0.pdb
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.deps.json
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.runtimeconfig.json
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.runtimeconfig.dev.json
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0.pdb
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Gdal.Core.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Core.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Library.Metadata-v2.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Library.Parameters-v2.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.RasterIO.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.RasterIO.Gdal.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.SpatialModeling.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Landis.Utilities.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\log4net.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\MathNet.Numerics.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\bin\Release\netcoreapp2.0\Troschuetz.Random.dll
+C:\Projects\Landis\ForestProducts\ForestProducts - Copy (3)\obj\Release\netcoreapp2.0\FPS.csproj.CopyComplete
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.deps.json
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.runtimeconfig.json
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.runtimeconfig.dev.json
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.pdb
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Core.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Library.Metadata-v2.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Library.Parameters-v2.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\Landis.Utilities.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\log4net.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\MathNet.Numerics.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\bin\Release\netcoreapp2.0\MathNet.Numerics.xml
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\FPS.csprojAssemblyReference.cache
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\FPS.csproj.CoreCompileInputs.cache
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\FPS.AssemblyInfoInputs.cache
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\FPS.AssemblyInfo.cs
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\FPS.csproj.CopyComplete
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.dll
+C:\Users\drobinson\New DropBox\d_global\Projects\EN2500to2599\EN2585 - Landis Updates 2019\FPS code\ForestProducts - NoMU\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v0n.pdb
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v1.deps.json
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v1.runtimeconfig.json
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v1.runtimeconfig.dev.json
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v1.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Extension.FPS-v1.pdb
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Core.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Library.Metadata-v2.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Library.Parameters-v2.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\Landis.Utilities.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\log4net.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\MathNet.Numerics.dll
+C:\Projects\Landis\FPS code\bin\Release\netcoreapp2.0\MathNet.Numerics.xml
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\FPS.csprojAssemblyReference.cache
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\FPS.csproj.CoreCompileInputs.cache
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\FPS.AssemblyInfoInputs.cache
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\FPS.AssemblyInfo.cs
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\FPS.csproj.CopyComplete
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v1.dll
+C:\Projects\Landis\FPS code\obj\Release\netcoreapp2.0\Landis.Extension.FPS-v1.pdb
